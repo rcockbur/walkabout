@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/projects/TheGame/TheGameSolution/TheGameProject/Content/arial24.spritefont","C:/projects/TheGame/TheGameSolution/TheGameProject/Content/bin/DesktopGL/Content/arial24.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.2147427
+"C:/projects/TheGame/TheGameSolution/TheGameProject/Content/grass_tile.png","C:/projects/TheGame/TheGameSolution/TheGameProject/Content/bin/DesktopGL/Content/grass_tile.xnb","TextureProcessor","Texture2DContent",588,32853,0.1141319
+"C:/projects/TheGame/TheGameSolution/TheGameProject/Content/house.png","C:/projects/TheGame/TheGameSolution/TheGameProject/Content/bin/DesktopGL/Content/house.xnb","TextureProcessor","Texture2DContent",1764,264085,0.170413
+"C:/projects/TheGame/TheGameSolution/TheGameProject/Content/monkey.png","C:/projects/TheGame/TheGameSolution/TheGameProject/Content/bin/DesktopGL/Content/monkey.xnb","TextureProcessor","Texture2DContent",33476,126565,0.1530282

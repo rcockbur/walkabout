@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YWJeIEZC4BYMvne71f76L7lVEuBozIziFLh6J7L/h1U7zRz1ZFTvQfjUTqvi+B8pV3yIvR7s6J++tmGcodEUw==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\TheGame\\TheGameSolution\\TheGameProject\\TheGameProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rkcoc\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\rkcoc\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
